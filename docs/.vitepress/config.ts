@@ -6,7 +6,7 @@ export default defineConfig({
     description: "详细学习 Vue 3 和 TypeScript 的指南",
     themeConfig: {
         siteTitle: "前端学习",
-        logo: "/assets/logo.png",
+        logo: "https://mxy-u.oss-cn-nanjing.aliyuncs.com/Vue%203%20Deep%20Dive%20with%20Evan%20You.png",
         nav: [
             { text:"首页", link:"/"},
             { text:"指南", link:"/guide/"},

@@ -6,7 +6,8 @@
 无论你是初学者还是有经验的开发者，这个站点都会帮助你掌握最新的 Vue 3 技术与 TypeScript 实践，从基础到进阶，全方位提升你的前端开发能力。
 </p>
 <p>
-![GitHub License](https://img.shields.io/github/license/mqxu/vue3-ts-docs)
+
+![GitHub License](https://img.shields.io/github/license/mxysun/vue3-ts-docs)
 ![GitHub Stars](https://img.shields.io/github/stars/mqxu/vue3-ts-docs)
 ![GitHub Forks](https://img.shields.io/github/forks/mqxu/vue3-ts-docs)
 ![Build Status](https://img.shields.io/github/workflow/status/mqxu/vue3-ts-docs/CI)

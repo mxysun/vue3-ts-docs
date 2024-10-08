@@ -8,9 +8,9 @@
 <p>
 
 ![GitHub License](https://img.shields.io/github/license/mxysun/vue3-ts-docs)
-![GitHub Stars](https://img.shields.io/github/stars/mqxu/vue3-ts-docs)
-![GitHub Forks](https://img.shields.io/github/forks/mqxu/vue3-ts-docs)
-![Build Status](https://img.shields.io/github/workflow/status/mqxu/vue3-ts-docs/CI)
+![GitHub Stars](https://img.shields.io/github/stars/mxysun/vue3-ts-docs)
+![GitHub Forks](https://img.shields.io/github/forks/mxysun/vue3-ts-docs)
+![Build Status](https://img.shields.io/github/workflow/status/mxysun/vue3-ts-docs/CI)
 ![NPM Version](https://img.shields.io/npm/v/vue)
 ![NPM Downloads](https://img.shields.io/npm/dw/vue)
 ![Maintenance](https://img.shields.io/maintenance/yes/2024)

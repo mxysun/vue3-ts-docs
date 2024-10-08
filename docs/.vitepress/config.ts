@@ -7,21 +7,21 @@ export default defineConfig({
     themeConfig: {
         siteTitle: "前端学习",
         logo: "https://mxy-u.oss-cn-nanjing.aliyuncs.com/Vue%203%20Deep%20Dive%20with%20Evan%20You.png",
-        nav: [
+        nav: [ // 定义了导航栏的内容
             { text:"首页", link:"/"},
             { text:"指南", link:"/guide/"},
-            { text:"组件", link:"components/"},
+            { text:"组件", link:"/components/"},
             { text:"API 参考", link:"/api/"},
-            { text:"常见问题", link:"/faq/"},
+            { text:"常见问题", link:"/questions/"},
         ],
         socialLinks: [
-            { icon: "github", link:"https://github.com/vuejs/vitepress" },
+            { icon: "github", link:"https://github.com/vuejs/vitepress" }, // 链接到官方github仓库
         ],
-        sidebar: {
+        sidebar: { // 定义了侧边栏的内容 
             "/guide/": [
                 {
                 text: "开始",
-                collapsible: true,
+                collapsible: true, // 是否可以折叠
                 items: [
                     { text:"介绍", link: "/guide/"},
                     { text:"安装", link: "/guide/installation"},

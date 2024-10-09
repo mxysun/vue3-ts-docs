@@ -7,7 +7,7 @@ hero:
     text: "Vue 3 + TypeScript 学习文档"
     tagline: "前途是光明的，道路是曲折的"
     image:
-        src: "https://mxy-u.oss-cn-nanjing.aliyuncs.com/Vue%203%20Deep%20Dive%20with%20Evan%20You.png"
+        src: "https://mxy-u.oss-cn-nanjing.aliyuncs.com/undefinedVue%203%20Deep%20Dive%20with%20Evan%20You.png"
         alt: Chrome 浏览器插件
     actions: 
         - theme: brand
